@@ -10,8 +10,8 @@
 
 ## 概要
 *   **カテゴリー**: Crypto
-*   **トピック**: べき和・連立方程式
-*   **難易度**: Easy 🌱
+*   **トピック**: Math
+*   **難易度**: Easy 🔰 3.0
 *   **問題リンク**: [Σecret - Daily AlpacaHack](https://alpacahack.com/daily/challenges/sigma-secret)
 
 ## 使用ツール
