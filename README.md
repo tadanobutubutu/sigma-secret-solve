@@ -11,7 +11,7 @@
 ## 概要
 *   **カテゴリー**: Crypto
 *   **トピック**: Math
-*   **難易度**: Easy 🔰 3.0
+*   **難易度**: Easy 🌱 3.0
 *   **問題リンク**: [Σecret - Daily AlpacaHack](https://alpacahack.com/daily/challenges/sigma-secret)
 
 ## 使用ツール
@@ -172,8 +172,4 @@ flowchart TD
 python3 solve.py <HOST> <PORT>
 ```
 
-接続先の HOST と PORT は、問題ページでインスタンスを起動して確認してください。配布ファイル（`sigma-secret.tar.gz`）を展開した手元の `prob.py` で動作を試すこともできます。
-
-```bash
-FLAG='Alpaca{dummy_flag}' python3 ./sigma-secret/prob.py | python3 solve.py
-```
+接続先の HOST と PORT は、問題ページでインスタンスを起動して確認してください。
